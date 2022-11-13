@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @djdane - 👀 Fresh starter with improvement in mind 
+👋 Hi, I’m @djdane - Fresh starter with improvement in mind 
 
-Thanks for stopping by
+Thanks for stopping by  👀 
 
 <!---
 djdane/djdane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
